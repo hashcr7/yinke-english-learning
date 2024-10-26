@@ -69,7 +69,23 @@
 
 > 我们收集了一些真实用户的学习反馈，查看更多请访问 [用户故事](https://github.com/hashcr7/yinke-english-learning/discussions/categories/discussion-%E6%96%B0%E7%94%A8%E6%88%B7%E4%BB%8B%E7%BB%8D)
 
+## 👥 用户社群
 
+欢迎加入我们的用户交流群，与其他学习者一起进步：
+
+### 💬 微信群
+![3930EC47A86CF1B920D32EB14CFA0416](https://github.com/user-attachments/assets/83e77781-5ab6-4906-b47a-b90a4e26800f)
+- 扫码添加运营小助手
+- 回复 "加群" 获取最新群聊邀请
+
+### 📱 QQ群
+- 群号：523631573
+- 扫码加入：![IMG_4214(20241026-095744)](https://github.com/user-attachments/assets/e28323fc-77ac-45b6-8c2c-a75bebd6d467)
+
+
+### 📢 Telegram
+- 讨论组：[t.me/yinke_english_chat](https://t.me/yinke_7)
+  
 ## 📬 联系我们
 
 - 网站：[yinke.jinguizi07.cn](https://yinke.jinguizi07.cn)

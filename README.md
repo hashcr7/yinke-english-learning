@@ -74,7 +74,7 @@
 欢迎加入我们的用户交流群，与其他学习者一起进步：
 
 ### 💬 微信群
-<img src="https://github.com/user-attachments/assets/83e77781-5ab6-4906-b47a-b90a4e26800f" width="200" alt="微信群二维码">
+- <img src="https://github.com/user-attachments/assets/83e77781-5ab6-4906-b47a-b90a4e26800f" width="150" height="150" alt="微信群二维码">
 - 扫码添加运营小助手
 - 回复 "加群" 获取最新群聊邀请
 

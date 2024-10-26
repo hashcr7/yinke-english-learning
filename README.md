@@ -80,7 +80,7 @@
 
 ### 📱 QQ群
 - 群号：523631573
-<img src="https://github.com/user-attachments/assets/e28323fc-77ac-45b6-8c2c-a75bebd6d467" width="200" alt="QQ群二维码">
+- <img src="https://github.com/user-attachments/assets/e28323fc-77ac-45b6-8c2c-a75bebd6d467" width="150" height="150" alt="QQ群二维码">
 
 
 ### 📢 Telegram

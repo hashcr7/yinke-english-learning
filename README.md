@@ -90,7 +90,6 @@
 
 - 网站：[yinke.jinguizi07.cn](https://yinke.jinguizi07.cn)
 - 邮箱：[hashcr72@gmail.com]
-- 微信：[hqc457848265]
 
 ## ⭐ 项目展示
 

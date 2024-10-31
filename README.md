@@ -122,14 +122,6 @@
 - 扫码添加运营小助手
 - 回复 "加群" 获取最新群聊邀请
 
-### 📱 QQ群
-- 群号：523631573
-- <img src="https://github.com/user-attachments/assets/9cf7c7cf-38ea-4cd5-bfe7-a810c8f5adcd" width="150" height="150" alt="QQ群二维码">
-
-
-### 📢 Telegram
-- 讨论组：[t.me/yinke_english_chat](https://t.me/yinke_7)
-  
 ## 📬 联系我们
 
 - 网站：[yinke.jinguizi07.cn](https://yinke.jinguizi07.cn)
